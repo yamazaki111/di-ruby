@@ -144,3 +144,5 @@ scores =  {yamazaki: 1000, yuki: 10000}
 p "name: %s" % "yamazaki" #文字列
 p "name: %10s" % "yamazaki"#10桁分右に移動
 p "name: %-10s" % "yamazaki"#10桁分左に移動
+
+puts "Hello World"
