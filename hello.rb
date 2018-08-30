@@ -146,3 +146,8 @@ p "name: %10s" % "yamazaki"#10桁分右に移動
 p "name: %-10s" % "yamazaki"#10桁分左に移動
 
 puts "Hello World"
+
+list = [1, 2, 3, 4]
+list.each do |l|
+  puts l
+end
